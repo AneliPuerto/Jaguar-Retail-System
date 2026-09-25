@@ -1,2 +1,2 @@
 # Jaguar-Retail-System
-Gestor de Inventario y Ventas para Microcomercios
+Gestor de Inventario y Ventas para 
