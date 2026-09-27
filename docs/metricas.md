@@ -52,3 +52,19 @@ diseño o tiempo de ejecución.
 | K1.0 | Preparación de la presentación del proyecto. | 3 |
 | K2.0 | Preparación de las evidencias de avance del proyecto. | 3 |
 | K3.0 | Grabación del video de presentación del proyecto. | 5 |
+
+---
+
+## 3. Consolidador de Contribución por Integrante
+
+Para demostrar el cumplimiento equitativo del trabajo académico, del **porcentaje de esfuerzo** totales se distribuyen proporcionalmente entre los 6 integrantes:
+
+| Integrante | Rol | % Contribución Calculado | Evidencias Directas en Repositorio |
+| :--- | :--- | :---: | :---: | 
+| **Axel** | Líder / Product Owner | **30%** | `docs/producto.md`<br>`docs/requisitos.md`<br> `docs/competencias.md` |
+| **Mariana** | Scrum Master | **20%** | `docs/proceso.md`<br> `docs/metricas-y-bitacora.md`<br> `README.md` |
+| **Rodrigo** | Diseñador | **18%** | `diagramas/diagrama-clases.png` y assets |
+| **Hiram** | Diseñador | **15%** | `diagramas/casos-de-uso.png`<br> y assets `presentacion/presentacion.pdf` |
+| **Jennifer** | Diseñador|  **10 %** |`presentacion/presentacion.pdf`|
+| **Salomón** | Diseñador | **7.0%** | Support en `diagramas/diagrama-clases.png`  |
+| **TOTAL** | **100%** | **Entregable Completo Validado** |
