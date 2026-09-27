@@ -13,7 +13,7 @@ En esta sección se registran las sesiones de trabajo sincrónicas y asincrónic
 2. Se selecciona el marco de trabajo **Scrum adaptado** para la gestión iterativa del proyecto.
 3. Se acuerda la estructura base de carpetas del repositorio en GitHub (`docs/`, `diagramas/`, `presentacion/`).
 
-#### 📌 Asignación de Tareas y Fechas Límite
+####  Asignación de Tareas y Fechas Límite
 
 | Fecha | Evento / Actividad | Responsables | Descripción / Decisiones Alcanzadas | Fecha Límite | Estado |
 | :--- | :--- | :--- | :--- | :---: | :---: |
