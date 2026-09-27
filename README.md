@@ -1,7 +1,9 @@
 # Jaguar Retail System
 
-Sistema de software orientado a la gestión de inventario, ventas y procesos
-comerciales relacionados.
+## Propuesta de Valor
+Un Sistema Integral POS diseñado específicamente para la estructura interna 
+de la UADY, que centraliza el control de inventarios de múltiples campus 
+y automatiza el flujo de cobranza institucional.
 
 ---
 

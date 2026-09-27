@@ -6,15 +6,15 @@
 
 **Tipo:** Sistema de gestión de inventario y ventas.
 
-## 2. Descripción
+## 2. Propuesta de Valor
 
-Jaguar Retail System es un sistema de software orientado a la gestión de
-inventario, ventas y procesos relacionados con la operación comercial de la
-organización.
+**"Un Sistema Integral POS diseñado específicamente para la estructura interna de la UADY, que centraliza el control de inventarios de múltiples campus y automatiza el flujo de cobranza institucional."**
 
-El sistema contempla la administración de productos y existencias, operaciones
-de venta física, procesos de comercio electrónico y gestión de cuentas por
-cobrar.
+**Diferenciador principal frente a software comercial:**
+La integración nativa del método de pago universitario. A diferencia de un POS genérico, este sistema procesa transacciones con Interuady, despliega un formulario obligatorio para capturar la dependencia y responsable del pago, y envía automáticamente estas operaciones a un módulo central de Cuentas por Cobrar.
+
+**Necesidad que resuelve:**
+Elimina discrepancias de mercancía mediante un control de existencias separado por bodega que actualiza de forma simultánea el stock global y local, agilizando la operación física con lectura predictiva de códigos de barras y emisión de recibos en impresora térmica.
 
 ## 3. Objetivo del producto
 
