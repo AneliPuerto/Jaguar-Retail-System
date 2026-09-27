@@ -66,5 +66,5 @@ Para demostrar el cumplimiento equitativo del trabajo académico, del **porcenta
 | **Rodrigo** | Diseñador | **18%** | `diagramas/diagrama-clases.png` y assets |
 | **Hiram** | Diseñador | **15%** | `diagramas/casos-de-uso.png`<br> y assets `presentacion/presentacion.pdf` |
 | **Jennifer** | Diseñador|  **10 %** |`presentacion/presentacion.pdf`|
-| **Salomón** | Diseñador | **7.0%** | Support en `diagramas/diagrama-clases.png`  |
+| **Salomón** | Diseñador | **7%** | Support en `diagramas/diagrama-clases.png`  |
 | **TOTAL** | **100%** | **Entregable Completo Validado** |
