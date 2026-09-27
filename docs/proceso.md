@@ -6,6 +6,8 @@ El proyecto Jaguar Retail System se desarrolla mediante un proceso iterativo
 que contempla el análisis de requisitos, planificación, diseño, desarrollo,
 validación y documentación.
 
+---
+
 ## 2. Etapas del proceso
 
 ### 2.1 Análisis de requisitos
@@ -60,7 +62,38 @@ El avance del proyecto se monitorea mediante métricas relacionadas con las
 actividades realizadas, requisitos, contribuciones individuales y avance del
 desarrollo.
 
-## 3. Control del proyecto
+---
+
+## 3. Organización del Equipo y Roles
+
+Para garantizar una gestión ágil y ordenada a lo largo del ciclo de vida del **Jaguar Retail System**, los integrantes asumen las siguientes responsabilidades generales dentro del proyecto:
+
+| Integrante | Rol en el Proyecto | Responsabilidades Principales (Proyecto General) |
+| :--- | :--- | :--- |
+| **Axel** | Product Owner | Definición de la visión del producto, gestión del alcance comercial, gestión del Product Backlog, especificación de requisitos (RF/RNF), priorización de funcionalidades y alineación con las necesidades del cliente. |
+| **Mariana** | Scrum Master | Facilitación del marco de trabajo ágil, seguimiento del avance del equipo, moderación de reuniones, control de métricas de contribución, resolución de bloqueos y gestión de la documentación en el repositorio. |
+| **Hiram** | Diseñador (Comportamiento y UX) | Modelado de la interacción del sistema, especificación de flujos de trabajo, definición de casos de uso/historias de usuario, criterios de aceptación y colaboración en la conceptualización de apoyos visuales. |
+| **Jennifer** | Diseñadora (UI / Comunicación Visual) | Diseño de la identidad visual, elaboración de la interfaz gráfica del usuario, creación de prototipos y producción del material visual. |
+| **Rodrigo** | Diseñador (Estructura UML y Datos) | Modelado de la abstracción del sistema, diseño del Diagrama de Clases, estructuración de entidades del dominio comercial y elaboración de assets gráficos para la documentación técnica. |
+| **Salomón** | Diseñador (Arquitectura y Diagramación) | Co-diseño del modelo de clases del sistema, definición de atributos, métodos y relaciones UML, y apoyo en la estandarización gráfica de los artefactos técnicos del proyecto. |
+
+---
+
+## 4. Adaptación de la Metodología Ágil (Scrum)
+
+El proyecto adopta un enfoque Ágil basado en Scrum, adaptado al entorno académico:
+
+1. **Sprint Planning:** Al inicio de cada fase se revisa la rúbrica y se desglosan las tareas asignándolas a los responsables.
+2. **Reuniones de Sincronización:** Sesiones breves sincrónicas/asincrónicas facilitadas por la Scrum Master para resolver bloqueos.
+3. **Sprint Review:** Revisión integral de la documentación en Markdown (`.md`), diagramas y presentación previo a cada entrega.
+
+### Herramientas de Monitoreo
+El equipo utiliza **GitHub Projects / Trello** estructurado en las siguientes columnas: *Por hacer (To Do)*, *En proceso (In Progress)*, *En revisión (In Review)* y *Completado (Done)*.
+
+> **Enlace al tablero de seguimiento:** [https://github.com/users/AneliPuerto/projects/2/views/1]
+---
+
+## 5. Control del Proyecto y Documentación
 
 El repositorio de GitHub se utiliza para:
 
@@ -71,8 +104,6 @@ El repositorio de GitHub se utiliza para:
 - Organización de actividades.
 - Seguimiento del trabajo del equipo.
 
-## 4. Documentación del proceso
-
 La información relacionada con el seguimiento del proceso se encuentra
 distribuida en:
 
@@ -80,3 +111,7 @@ distribuida en:
 - `bitacora.md` — actividades, decisiones e incidencias.
 - `metricas.md` — métricas y contribuciones.
 - `diagramas/` — modelos y diagramas del sistema.
+
+
+
+
