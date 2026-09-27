@@ -8,7 +8,7 @@
 
 ## 2. Propuesta de Valor
 
-> **"Un Sistema Integral POS diseñado específicamente para la estructura interna de la UADY, que centraliza el control de inventarios de múltiples campus y automatiza el flujo de cobranza institucional."**
+**"Un Sistema Integral POS diseñado específicamente para la estructura interna de la UADY, que centraliza el control de inventarios de múltiples campus y automatiza el flujo de cobranza institucional."**
 
 **Diferenciador principal frente a software comercial:**
 La integración nativa del método de pago universitario. A diferencia de un POS genérico, este sistema procesa transacciones con Interuady, despliega un formulario obligatorio para capturar la dependencia y responsable del pago, y envía automáticamente estas operaciones a un módulo central de Cuentas por Cobrar.
