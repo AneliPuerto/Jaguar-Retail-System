@@ -16,6 +16,16 @@ trabajando en la definición de requisitos, priorización, modelado y
 organización de la documentación.
 
 ---
+##  Integrantes del Equipo y Roles
+
+| Integrante | Rol en el Proyecto |
+| :--- | :--- | 
+| **Axel** |  Product Owner | 
+| **Mariana** | Scrum Master | 
+| **Hiram** | Diseñador  | 
+| **Jennifer** | Diseñadora | 
+| **Rodrigo** | Diseñador |
+| **Salomón** | Diseñador |
 
 ## Documentación
 
