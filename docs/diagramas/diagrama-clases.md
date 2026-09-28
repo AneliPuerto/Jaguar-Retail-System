@@ -2,7 +2,7 @@
 
 Diagrama de clases correspondiente al sistema **Jaguar Retail System**.
 
-![Diagrama de clases](./diagrama-clases.svg)
+![Diagrama de clases](./diagrama-clases.png)
 
 ## Descripción
 
