@@ -37,7 +37,7 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
   usuarios y funcionalidades principales del sistema.
 - [`Requisitos`](./docs/requisitos.md) — Requisitos funcionales y no
   funcionales, épicas, priorización y validación.
-- [`Product Backlog`](./docs/product-backlog.md) — Organización y seguimiento
+- [`Product Backlog (GitHub Projects)`]( https://github.com/users/AneliPuerto/projects/2/views/1) — Organización y seguimiento
   de los elementos del Product Backlog.
 
 ### Proceso y seguimiento
