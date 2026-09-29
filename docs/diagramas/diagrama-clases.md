@@ -22,3 +22,4 @@ relaciones, incluyendo:
 
 El modelo contempla las operaciones relacionadas con la gestión de inventario,
 productos, ventas, pagos y usuarios.
+Nota: Esta es una version preliminar del diagrama de clases
