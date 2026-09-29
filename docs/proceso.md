@@ -88,7 +88,7 @@ El proyecto adopta un enfoque Ágil basado en Scrum, adaptado al entorno académ
 3. **Sprint Review:** Revisión integral de la documentación en Markdown (`.md`), diagramas y presentación previo a cada entrega.
 
 ### Herramientas de Monitoreo
-El equipo utiliza **GitHub Projects / Trello** estructurado en las siguientes columnas: *Por hacer (To Do)*, *En proceso (In Progress)*, *En revisión (In Review)* y *Completado (Done)*.
+El equipo utiliza **GitHub Projects** estructurado en las siguientes columnas: *Por hacer (To Do)*, *En proceso (In Progress)*, *En revisión (In Review)* y *Completado (Done)*.
 
 > **Enlace al tablero de seguimiento:** [https://github.com/users/AneliPuerto/projects/2/views/1]
 ---
