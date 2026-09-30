@@ -23,7 +23,7 @@ organización de la documentación.
 | **Axel Alberto Meza Varguez** |  Product Owner | 
 | **Mariana Aneli Puerto Noh** | Scrum Master | 
 | **Hiram Gael Dzul Bernal** | Diseñador  | 
-| **Jennifer Karina Lopez Ambrosio** | Diseñadora | 
+| **Jennifer Karina Lopez Ambrosio** | Diseñador | 
 | **Martin Rodrigo Farfan Calderón** | Diseñador |
 | **Salomon Jesus Balam Chuc** | Diseñador |
 
