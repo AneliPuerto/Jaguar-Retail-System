@@ -20,12 +20,12 @@ organización de la documentación.
 
 | Integrante | Rol en el Proyecto |
 | :--- | :--- | 
-| **Axel** |  Product Owner | 
-| **Mariana** | Scrum Master | 
-| **Hiram** | Diseñador  | 
-| **Jennifer** | Diseñadora | 
-| **Rodrigo** | Diseñador |
-| **Salomón** | Diseñador |
+| **Axel Alberto Meza Varguez** |  Product Owner | 
+| **Mariana Aneli Puerto Noh** | Scrum Master | 
+| **Hiram Gael Dzul Bernal** | Diseñador  | 
+| **Jennifer Karina Lopez Ambrosio** | Diseñadora | 
+| **Martin Rodrigo Farfan Calderón** | Diseñador |
+| **Salomon Jesus Balam Chuc** | Diseñador |
 
 ## Documentación
 
