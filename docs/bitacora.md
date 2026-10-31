@@ -99,7 +99,13 @@ En esta sección se registran las sesiones de trabajo sincrónicas y asincrónic
 | **2026-10-26** | Entrevista en Sucursal FMAT | Axel Meza | Junta con el trabajador de la boutique FMAT; se obtiene el contacto directo con la Boutique Central. | 2026-10-26 | **Completado** |
 | **2026-10-27** | Envío de Preguntas a Boutique Central | Axel Meza | Contacto por correo electrónico con la administración para enviar las dudas sobre vales, pagos en línea, tickets e inventario. | 2026-10-27 | **Completado** |
 | **2026-10-29** | Recepción de Nuevos Acuerdos y Requisitos | Axel & Equipo | Confirmación del cliente.| 2026-10-29 | **Completado** |
-| **2026-10-30** | Actualización de Documentación | Mariana & Axel | Registro e integración de los nuevos acuerdos y bitácoras en `docs/04-metricas-y-bitacora.md` y `docs/02-requisitos.md`. | 2026-10-30 | **Completado** |
+| **2026-10-14** | Actualización de Documentación | Mariana & Axel | Registro e integración de los nuevos acuerdos y bitácoras en `docs/04-metricas-y-bitacora.md` y `docs/02-requisitos.md`. | 2026-10-31| **Completado** |
+| **2026-10-14** | Diagrama de Clases Finales y Arquitectura | Salomón | Conclusión y actualización del Diagrama de Clases final, diseño de arquitectura y estructura de clases del sistema. | 2026-10-31 | **Completado** |
+| **2026-10-14** | Mapeo RF/RNF a Diagrama de Clases | Rodrigo | Diseño y establecimiento de la correspondencia directa entre los Requisitos Funcionales/No Funcionales y las entidades del Diagrama de Clases. | 2026-10-31 | **Completado** |
+| **2026-10-14** | Actualización de Casos de Uso | Hiram | Refinamiento y actualización del Diagrama de Casos de Uso y sus flujos correspondientes. | 2026-10-31 | **Completado** |
+| **2026-10-14** | Actualización de Producto y Competencias | Axel | Revisión y actualización de los archivos de documentación de Producto y la sustentación de Competencias. | 2026-10-31 | **Completado** |
+| **2026-10-14** | Actualización de README y Métricas | Mariana | Actualización general del `README.md` principal del repositorio y consolidación de las métricas del proyecto. | 2026-10-31 | **Completado** |
+
 
 ---
 

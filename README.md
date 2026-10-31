@@ -1,9 +1,9 @@
 # Jaguar Retail System
-
+ **Sistema Integral POS y Control de Inventarios Centralizado (UADY)**
 ## Propuesta de Valor
 Un Sistema Integral POS diseñado específicamente para la estructura interna 
-de la UADY, que centraliza el control de inventarios de múltiples campus 
-y automatiza el flujo de cobranza institucional.
+de la Universidad Autónoma de Yucatán.
+ El sistama centraliza el control de inventarios de múltiples campus a partir de un **Centro de Distribución Universitario (CDU)** como almacén central, habilitando la **funcionalidad de traspaso de mercancía** inter-bodegas. Además, optimiza la operación en mostrador mediante lectores de códigos de barras, agiliza la venta presencial y automatiza el flujo institucional de **Cuentas por Cobrar (Interuady)** con permisos estrictamente auditados.
 
 ---
 
@@ -55,8 +55,10 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
 ### Diagramas
 
 - [`Diagramas`](./docs/diagramas/) — Modelos y diagramas del sistema.
-- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.md) — Documentación
+- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.md/diagrama-clases.png) — Documentación
   del diagrama de clases del sistema.
+- [`Diagrama de Caso de uso`](./docs/diagramas/Casos-de-uso.png/detallescasodeuso.md) 
+  
 
 ---
 
@@ -68,10 +70,15 @@ Jaguar-Retail-System/
 │   ├── diagramas/
 │   │   ├── diagrama-clases.md
 │   │   ├── diagrama-clases.svg
-│   │   └── ...
+│   │   └── Casos-de-uso.png
+|   |   └── detallescasodeuso.md
+│   │
 │   ├── presentacion/
+│   │   ├── Presentacion1.md
+│   │
 │   ├── bitacora.md
 │   ├── competencias.md
+│   └── diseno.md
 │   ├── metricas.md
 │   ├── proceso.md
 │   ├── producto.md
