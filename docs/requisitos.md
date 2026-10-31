@@ -47,4 +47,4 @@ Se utiliza una **Matriz de Priorización Ponderada** con dos criterios:
 | 3.0–3.9 | Media |
 | 1.0–2.9 | Baja |
 
-Los RNF también reciben importancia y factibilidad para permitir una lectura integral del backlog. Su prioridad es provisional y no implica que deban convertirse en funcionalidades independientes.
+*Nota: Tras la reunión de levantamiento de requisitos con el cliente, todos los elementos de prioridad Media y Baja (asociados a E-commerce y BOPIS) han sido retirados del Product Backlog definitivo.* 
