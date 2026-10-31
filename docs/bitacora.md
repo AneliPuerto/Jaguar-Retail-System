@@ -105,6 +105,7 @@ En esta sección se registran las sesiones de trabajo sincrónicas y asincrónic
 | **2026-10-14** | Actualización de Casos de Uso | Hiram | Refinamiento y actualización del Diagrama de Casos de Uso y sus flujos correspondientes. | 2026-10-31 | **Completado** |
 | **2026-10-14** | Actualización de Producto y Competencias | Axel | Revisión y actualización de los archivos de documentación de Producto y la sustentación de Competencias. | 2026-10-31 | **Completado** |
 | **2026-10-14** | Actualización de README y Métricas | Mariana | Actualización general del `README.md` principal del repositorio y consolidación de las métricas del proyecto. | 2026-10-31 | **Completado** |
+| **2026-10-14** | Soporte Visual de Exposición | **Hiram** | Diseño del formato gráfico y diapositivas ajustadas a la exposición de 5 minutos. | 2026-10-31 | **Completado** |
 
 
 ---
