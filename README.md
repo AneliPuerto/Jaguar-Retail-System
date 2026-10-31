@@ -55,9 +55,9 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
 ### Diagramas
 
 - [`Diagramas`](./docs/diagramas/) — Modelos y diagramas del sistema.
-- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.md/diagrama-clases.png) — Documentación
+- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.md) — Documentación
   del diagrama de clases del sistema.
-- [`Diagrama de Caso de uso`](./docs/diagramas/Casos-de-uso.png/detallescasodeuso.md) 
+- [`Diagrama de Caso de uso`](./docs/diagramas/Casos-de-uso.png) 
   
 
 ---
