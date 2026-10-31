@@ -24,6 +24,8 @@ diseño o tiempo de ejecución.
 
 ## Actividades del proyecto
 
+**SEPTIEMBRE**
+
 | ID de tarea | Descripción | Tamaño |
 |---|---|---:|
 | A1.0 | Organización inicial del repositorio de GitHub y definición de la estructura de carpetas del proyecto. | 3 |
@@ -53,18 +55,36 @@ diseño o tiempo de ejecución.
 | K2.0 | Preparación de las evidencias de avance del proyecto. | 3 |
 | K3.0 | Grabación del video de presentación del proyecto. | 5 |
 
+**OCTUBRE**
+
+| ID de tarea | Descripción | Tamaño | 
+|---|---|---:|
+| L1.0 | Refinamiento de Requisitos Funcionales (RF) y No Funcionales (RNF) especificando criterios de aceptación detallados para el POS físico, Inventario inter-campus e Interuady. | 3 | 
+| L2.0 | Delimitación del alcance fuera de línea (exclusión de E-commerce y recolección BOPIS). | 3 |
+| M1.0 | Reevaluación y actualización de la Matriz de Priorización Ponderada (60% Importancia / 40% Factibilidad). | 3 | 
+| M2.0 | Desglose y reestructuración del Product Backlog en Épicas activas (EPIC-01, EPIC-02, EPIC-04 y Transversal). | 3 |
+| N1.0 | Especificación del Diagrama de Casos de Uso actualizando los 4 roles (Administrador Central, Ventas CDU, Ventas Sociales y Ventas Matemáticas). | 5 |
+| N2.0 | Refinamiento y consolidación del Diagrama de Clases UML (entidades comerciales, atributos, métodos, relaciones y asociatividades). | 5 | 
+| N3.0 | Definición y modelado de la arquitectura de sistema cliente-servidor y base de datos centralizada. | 5 | 
+| O1.0 | Actualización y refinamiento de la documentación técnica en Markdown (`producto.md`, `requisitos.md`, `proceso.md`, `metricas-y-bitacora.md`, `competencias.md`). | 3 | 
+| O2.0 | Auditoría y control de evidencias mediante el tablero Kanban dinámico en GitHub Projects y gestión de PRs. | 3 | 
+| P1.0 | Preparación de láminas y material gráfico de apoyo visual para la exposición final/avance de la Etapa 2. | 3 | 
+| P2.0 | Ensayos y control del ritmo de presentación ajustado al tiempo límite (5 minutos). | 3 | 
+
 ---
 
 ## 3. Consolidador de Contribución por Integrante
 
-Para demostrar el cumplimiento equitativo del trabajo académico, del **porcentaje de esfuerzo** totales se distribuyen proporcionalmente entre los 6 integrantes:
+Para demostrar el cumplimiento equitativo del trabajo académico, del **porcentaje de esfuerzo** totales se distribuyen proporcionalmente entre los 5 integrantes:
 
 | Integrante | Rol | % Contribución Calculado | Evidencias Directas en Repositorio |
 | :--- | :--- | :---: | :---: | 
 | **Axel** | Líder / Product Owner | **30%** | `docs/producto.md`<br>`docs/requisitos.md`<br> `docs/competencias.md` |
 | **Mariana** | Scrum Master | **20%** | `docs/proceso.md`<br> `docs/metricas-y-bitacora.md`<br> `README.md` |
-| **Rodrigo** | Diseñador | **18%** | `diagramas/diagrama-clases.png` y assets |
-| **Hiram** | Diseñador | **15%** | `diagramas/casos-de-uso.png`<br> y assets `presentacion/presentacion.pdf` |
-| **Jennifer** | Diseñador|  **10 %** |`presentacion/presentacion.pdf`|
-| **Salomón** | Diseñador | **7%** | Support en `diagramas/diagrama-clases.png`  |
+| **Rodrigo** | Diseñador | **18%** | `diagramas/diagrama-clases.png` y assets `presentacion/presentacion.pdf`|
+| **Hiram** | Diseñador | **18%** | `diagramas/casos-de-uso.png`<br> y `presentacion/presentacion.pdf` |
+| **Salomón** | Diseñador | **14%** | Support en `diagramas/diagrama-clases.png`  |
 | **TOTAL** | **100%** | **Entregable Completo Validado** |
+
+**Nota de Ajuste de Metodología (Control de Cambios):**  
+> Tras la baja formal de la integrante Jennifer, el equipo redistribuyó el 100% de la carga del proyecto entre los 5 miembros activos. Hiram junto a Rodrigo asumieron las tareas del área de diseño visual, reajustando los porcentajes de esfuerzo correspondientes para respaldar objetivamente la Métrica de Contribución Individual.

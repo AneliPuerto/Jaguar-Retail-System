@@ -52,14 +52,14 @@ En esta sección se registran las sesiones de trabajo sincrónicas y asincrónic
 #### Sesión 4: Planificación de Tareas y Asignación por Integrante
 - **Fecha:** 14 de Octubre de 2026
 - **Modalidad:** Sincrónica 
-- **Asistentes:** Axel, Mariana, Hiram, Jennifer, Rodrigo, Salomón.
+- **Asistentes:** Axel, Mariana, Hiram, Rodrigo, Salomón.
 - **Objetivo:** Planificar la distribución de tareas de la segunda entrega y definir el plan de contacto con el cliente/boutique.
 
 ##### Acuerdos Alcanzados
 1. Se establecen formalmente las asignaciones de trabajo para la segunda etapa del proyecto.
 2. Axel asume la coordinación de contacto directo con el cliente y gestión de Requisitos Funcionales/No Funcionales.
 3. Mariana coordinará el monitoreo de tareas, bitácoras y actualización del repositorio en GitHub.
-4. Hiram, Jennifer, Rodrigo y Salomón coordinan el refinamiento visual de diagramas y documentación técnica (UML y Casos de Uso).
+4. Hiram, Rodrigo y Salomón coordinan el refinamiento visual de diagramas y documentación técnica (UML y Casos de Uso).
 
 #### Sesión 5: Entrevista presencial en Sucursal FMAT
 - **Fecha:** 26 de Octubre de 2026

@@ -67,14 +67,15 @@ desarrollo.
 
 Para garantizar una gestión ágil y ordenada a lo largo del ciclo de vida del **Jaguar Retail System**, los integrantes asumen las siguientes responsabilidades generales dentro del proyecto:
 
-| Integrante  | Rol en el Proyecto | Responsabilidades Principales (Proyecto General) |
-| :---  | :--- | :--- |
-| **Axel Alberto Meza Varguez** | Product Owner | Definición de la visión del producto, gestión del alcance comercial, gestión del Product Backlog, especificación de requisitos (RF/RNF), priorización de funcionalidades y alineación con las necesidades del cliente. |
-| **Mariana Aneli Puerto Noh** | Scrum Master | Facilitación del marco de trabajo ágil, seguimiento del avance del equipo, moderación de reuniones, control de métricas de contribución, resolución de bloqueos y gestión de la documentación en el repositorio. |
-| **Hiram Gael Dzul Bernal** | Diseñador (Comportamiento y UX) | Modelado de la interacción del sistema, especificación de flujos de trabajo, definición de casos de uso/historias de usuario, criterios de aceptación y colaboración en la conceptualización de apoyos visuales. |
-| **Jennifer Karina Lopez Ambrosio** | Diseñador (UI / Comunicación Visual) | Diseño de la identidad visual, elaboración de la interfaz gráfica del usuario, creación de prototipos y producción del material visual. |
-| **Martin Rodrigo Farfan Calderón** | Diseñador (Estructura UML y Datos) | Modelado de la abstracción del sistema, diseño del Diagrama de Clases, estructuración de entidades del dominio comercial y elaboración de assets gráficos para la documentación técnica. |
-| **Salomón Jesus Balam Chuc** | Diseñador (Arquitectura y Diagramación) | Co-diseño del modelo de clases del sistema, definición de atributos, métodos y relaciones UML, y apoyo en la estandarización gráfica de los artefactos técnicos del proyecto. |
+## 3. Organización del Equipo y Roles
+
+| Integrante | Rol en el Proyecto | Responsabilidades Principales |
+| :--- | :--- | :--- |
+| **Axel** | Product Owner | Definición de la visión del producto, alcance, propuesta de valor, especificación de Requisitos Funcionales (RF) y No Funcionales (RNF), priorización y argumentación de competencias. |
+| **Mariana** | Scrum Master | Definición y seguimiento del marco de trabajo ágil, registro de bitácoras de reuniones, control de la Métrica de Contribución Individual y organización del repositorio en GitHub. |
+| **Hiram** | Diseñador (UX/UI y Presentación) | Modelado del Diagrama de Casos de Uso del sistema, especificación de actores, flujos de interacción, criterios de aceptación, diseño de la estructura visual e interfaz (UI) para exposiciones y material de apoyo. |
+| **Rodrigo** | Diseñador (UML) | Modelado del Diagrama de Clases UML, especificación de entidades del dominio y creación de assets gráficos para la documentación técnica. |
+| **Salomón** | Diseñador (Arquitectura) | Co-diseño del Diagrama de Clases UML, definición de atributos, métodos, relaciones de entidades y apoyo en la estructuración de la arquitectura técnica. |
 
 ---
 
