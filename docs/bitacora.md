@@ -2,6 +2,8 @@
 
 En esta sección se registran las sesiones de trabajo sincrónicas y asincrónicas coordinadas por la Scrum Master para el seguimiento de entregables, toma de decisiones técnicas, asignación de tareas y resolución de bloqueos.
 
+## Septiembre
+
 ### Sesión 1: Kickoff del Proyecto y Definición de Alcance
 * **Fecha:** 24 de Septiembre de 2026
 * **Modalidad:**  Sincrónica (Virtual)
@@ -44,9 +46,63 @@ En esta sección se registran las sesiones de trabajo sincrónicas y asincrónic
 1. Hiram y Jennifer diseñan las diapositivas de apoyo visual asegurando un ritmo adecuado para la exposición de máximo 5 minutos.
 2. Mariana realiza la auditoría de enlaces en el `README.md` principal y consolida los registros en `docs/metricas-y-bitacora.md`.
 3. Se ratifica la división equitativa del 100% del trabajo académico entre los 6 integrantes.
+---
+## Octubre
 
+#### Sesión 4: Planificación de Tareas y Asignación por Integrante
+- **Fecha:** 14 de Octubre de 2026
+- **Modalidad:** Sincrónica 
+- **Asistentes:** Axel, Mariana, Hiram, Jennifer, Rodrigo, Salomón.
+- **Objetivo:** Planificar la distribución de tareas de la segunda entrega y definir el plan de contacto con el cliente/boutique.
+
+##### Acuerdos Alcanzados
+1. Se establecen formalmente las asignaciones de trabajo para la segunda etapa del proyecto.
+2. Axel asume la coordinación de contacto directo con el cliente y gestión de Requisitos Funcionales/No Funcionales.
+3. Mariana coordinará el monitoreo de tareas, bitácoras y actualización del repositorio en GitHub.
+4. Hiram, Jennifer, Rodrigo y Salomón coordinan el refinamiento visual de diagramas y documentación técnica (UML y Casos de Uso).
+
+#### Sesión 5: Entrevista presencial en Sucursal FMAT
+- **Fecha:** 26 de Octubre de 2026
+- **Modalidad:** Presencial 
+- **Asistentes:** Axel Meza, Mariana Puerto, Rodrigo Farfán  y  Empleado de la sucursal de la boutique FMAT.
+- **Objetivo:** Entrevistar al personal operativo de la sucursal FMAT para validar flujos de trabajo de punto de venta, inventario y obtener el contacto directo con la Administración Central.
+
+##### Acuerdos Alcanzados
+1. El empleado de la sucursal FMAT proporcionó el contacto oficial por correo electrónico de la Boutique Central/Administración para elevar las preguntas técnicas y operativas del proyecto.
+2. Se acuerda enviar el pliego de preguntas formalmente a la administración el día 27 de octubre de 2026.
+
+#### Sesión 6: Envío de Requerimientos a Boutique Central
+- **Fecha:** 27 de Octubre de 2026
+- **Modalidad:** Asincrónica (Correo electrónico)
+- **Asistentes:** Axel Meza (Product Owner) y Boutique Central.
+- **Objetivo:** Enviar pliego de preguntas clave sobre operación de vales, pasarela virtual, desglose contable de tickets e inventario centralizado.
+
+#### Sesión 7: Recepción de Respuestas y Definición de Nuevos Acuerdos del Cliente
+- **Fecha:** 29 de Octubre de 2026
+- **Modalidad:** Asincrónica (Respuesta de cliente vía correo / mensaje)
+- **Asistentes:** Axel Meza, Equipo de Desarrollo y Boutique Central.
+- **Objetivo:** Procesar las respuestas recibidas de la Administración Central para realizar las modificaciones a los requisitos del proyecto.
+
+##### Acuerdos y Decisiones Alcanzadas (Modificaciones al Alcance)
+1. **Operación de Vales "Interuady":** Solamente el rol de **Administración Central** tendrá la autorización requerida en el sistema para marcar las cuentas por cobrar como "Liquidadas" o pagadas.
+2. **Pasarela de Pago Virtual:** Por el momento **se descartan la página web y los pagos en línea**, enfocando el sistema exclusivamente en la venta física POS y gestión centralizada.
+3. **Facturación y Tickets Térmicos:** Es **requisito estricto de contabilidad** que el ticket de venta físico impreso desglose detalladamente el subtotal, el IVA y las instrucciones de facturación.
+4. **Almacén Central y Mostrador CDU:** El inventario del CDU opera como un **conjunto unificado (1 solo almacén con mostrador integrado)**, desde el cual se surte a las demás sucursales.
 
 ---
+
+### Registro de Asignación de Tareas, Monitoreo y Fechas Límite (Entrega 2)
+
+| Fecha | Actividad | Responsables | Descripción / Decisiones Alcanzadas | Fecha Límite | Estado |
+| :--- | :--- | :--- | :--- | :---: | :---: |
+| **2026-10-14** | Definición y Asignación de Tareas | Equipo completo | Asignación formal de responsabilidades para el Sprint 2 a cada integrante del equipo. | 2026-10-14 | **Completado** |
+| **2026-10-26** | Entrevista en Sucursal FMAT | Axel Meza | Junta con el trabajador de la boutique FMAT; se obtiene el contacto directo con la Boutique Central. | 2026-10-26 | **Completado** |
+| **2026-10-27** | Envío de Preguntas a Boutique Central | Axel Meza | Contacto por correo electrónico con la administración para enviar las dudas sobre vales, pagos en línea, tickets e inventario. | 2026-10-27 | **Completado** |
+| **2026-10-29** | Recepción de Nuevos Acuerdos y Requisitos | Axel & Equipo | Confirmación del cliente.| 2026-10-29 | **Completado** |
+| **2026-10-30** | Actualización de Documentación | Mariana & Axel | Registro e integración de los nuevos acuerdos y bitácoras en `docs/04-metricas-y-bitacora.md` y `docs/02-requisitos.md`. | 2026-10-30 | **Completado** |
+
+---
+
 ###  Flujo de Trabajo (Estados)
 *  **To Do (Por hacer):** Requisitos, especificaciones y tareas identificadas a partir de la rúbrica.
 * **In Progress (En proceso):** Entregables en desarrollo activo por su responsable asignado.
