@@ -2,18 +2,20 @@
 
 ## 1. Descripción
 
-El proyecto Jaguar Retail System se desarrolla mediante un proceso iterativo
-que contempla el análisis de requisitos, planificación, diseño, desarrollo,
-validación y documentación.
+El proyecto Jaguar Retail System se desarrolla mediante un proceso iterativo que contempla el análisis de requisitos, planificación, diseño, desarrollo, validación y documentación.
+
 
 ---
 
 ## 2. Etapas del proceso
 
 ### 2.1 Análisis de requisitos
+ 
+**Septiembre**
+En esta etapa se identifican y documentan los requisitos funcionales (RF) y no funcionales (RNF) a partir de la información proporcionada por el cliente.
 
-En esta etapa se identifican y documentan los requisitos funcionales (RF) y
-no funcionales (RNF) a partir de la información proporcionada por el cliente.
+**Octubre**
+Durante la segunda etapa se refina y se confirma el alcance del proyecto. El cual se concentra exclusivamente en el punto de venta físico (POS), el control de inventario inter-campus y la gestión de cuentas por cobrar (Interuady). Toda la funcionalidad relativa a E-commerce y pasarela web (antigua EPIC-03) y recolección BOPIS fue declarada fuera de alcance.
 
 ### 2.2 Priorización
 
@@ -27,20 +29,19 @@ El método de priorización se encuentra documentado en `requisitos.md`.
 
 ### 2.3 Planeación
 
-Los requisitos priorizados se organizan en el Product Backlog y se dividen en
-épicas y actividades de trabajo.
+Los requisitos priorizados se organizan en el Product Backlog y se dividen en épicas y actividades de trabajo. Estructurados bajo las siguientes épicas y ámbitos:
+* **EPIC-01: Gestión de Inventario y Catálogo:** Registro de productos por CDU, código de barras único, control de existencias por bodega y traspaso de mercancía.
+* **EPIC-02: Punto de Venta Físico (POS):** Búsqueda predictiva/lectura USB (Keyboard Wedge), descuento automático de stock, pagos (efectivo, tarjeta, Interuady), formulario obligatorio Interuady y ticket contable térmico con desglose de IVA.
+* **EPIC-04: Cuentas por Cobrar (Interuady):** Envío automático de transacciones institucionales y módulo de consulta/liquidación restringido al Administrador Central.
+* **TRANSVERSAL: Rendimiento y Arquitectura:** Tiempo de respuesta ≤ 1.5s en base de datos POS y disponibilidad del 99% en infraestructura UADY/Nube.
 
 ### 2.4 Análisis y diseño
 
-Se elaboran los modelos y diagramas necesarios para representar la estructura
-y comportamiento del sistema.
+Se elaboran y refinan los modelos y diagramas necesarios para representar la estructura y comportamiento del sistema:
 
-Entre ellos se contempla:
-
-- Diagrama de clases.
-- Diagramas de casos de uso.
-- Arquitectura del sistema.
-- Otros diagramas que sean necesarios durante el desarrollo.
+* **Diagrama de Casos de Uso:** Representación de las interacciones de los 4 roles principales (Administrador Central, Ventas CDU, Ventas Sociales y Ventas Matemáticas).
+* **Diagrama de Clases UML:** Modelado técnico de entidades comerciales, relaciones, atributos y métodos del sistema.
+* **Arquitectura del Sistema:** Definición de la estructura cliente-servidor y base de datos centralizada.
 
 ### 2.5 Desarrollo
 
@@ -51,15 +52,13 @@ El código fuente se mantiene dentro del repositorio del proyecto.
 
 ### 2.6 Validación
 
-Las funcionalidades y requisitos se revisan para verificar que correspondan
-con las necesidades definidas por el cliente.
+Las funcionalidades y requisitos se revisan para verificar que correspondan con las necesidades definidas por el cliente.
 
 Los cambios, decisiones e incidencias se registran en la bitácora.
 
 ### 2.7 Seguimiento
 
-El avance del proyecto se monitorea mediante métricas relacionadas con las
-actividades realizadas, requisitos, contribuciones individuales y avance del
+El avance del proyecto se monitorea mediante métricas relacionadas con las actividades realizadas, requisitos, contribuciones individuales y avance del
 desarrollo.
 
 ---
