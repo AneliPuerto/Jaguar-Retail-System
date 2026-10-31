@@ -55,7 +55,7 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
 ### Diagramas
 
 - [`Diagramas`](./docs/diagramas/) — Modelos y diagramas del sistema.
-- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.md) — Documentación
+- [`Diagrama de clases`](./docs/diagramas/diagrama-clases.png) — Documentación
   del diagrama de clases del sistema.
 - [`Diagrama de Caso de uso`](./docs/diagramas/Casos-de-uso.png) 
   
@@ -70,11 +70,11 @@ Jaguar-Retail-System/
 │   ├── diagramas/
 │   │   ├── diagrama-clases.md
 │   │   ├── diagrama-clases.svg
-│   │   └── Casos-de-uso.png
+│   │   ├── Casos-de-uso.png
 |   |   └── detallescasodeuso.md
 │   │
 │   ├── presentacion/
-│   │   ├── Presentacion1.md
+│   │   └── Presentacion1.md
 │   │
 │   ├── bitacora.md
 │   ├── competencias.md
