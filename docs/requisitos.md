@@ -47,4 +47,4 @@ Se utiliza una **Matriz de Priorización Ponderada** con dos criterios:
 | 3.0–3.9 | Media |
 | 1.0–2.9 | Baja |
 
-*Nota: Tras la reunión de levantamiento de requisitos con el cliente, todos los elementos de prioridad Media y Baja (asociados a E-commerce y BOPIS) han sido retirados del Product Backlog definitivo.* 
+*Nota: Tras la reunión de levantamiento de requisitos con el cliente, todos los elementos de prioridad Media y Baja (asociados a E-commerce y BOPIS) han sido retirados del Product Backlog definitivo.*
