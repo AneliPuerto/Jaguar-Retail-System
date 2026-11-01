@@ -77,7 +77,7 @@ Jaguar-Retail-System/
 │   │
 │   ├── bitacora.md
 │   ├── competencias.md
-│   ├── diseño_matrizdetrazabilidad.md
+│   ├── diseño_matriz_trazabilidad.md
 │   ├── diseño.md
 │   ├── metricas.md
 │   ├── proceso.md
