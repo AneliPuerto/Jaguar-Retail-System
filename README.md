@@ -64,7 +64,6 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
 
 ## Estructura del repositorio
 
-```text
 Jaguar-Retail-System/
 ├── docs/
 │   ├── diagramas/
@@ -78,7 +77,8 @@ Jaguar-Retail-System/
 │   │
 │   ├── bitacora.md
 │   ├── competencias.md
-│   └── diseno.md
+│   ├── Diseño y matriz de trazabilidad.md
+│   ├── diseño.md
 │   ├── metricas.md
 │   ├── proceso.md
 │   ├── producto.md
