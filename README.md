@@ -77,7 +77,7 @@ Jaguar-Retail-System/
 │   │
 │   ├── bitacora.md
 │   ├── competencias.md
-│   ├── Diseño y matriz de trazabilidad.md
+│   ├── diseño_matrizdetrazabilidad.md
 │   ├── diseño.md
 │   ├── metricas.md
 │   ├── proceso.md
