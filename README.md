@@ -63,7 +63,7 @@ Toda la documentación del proyecto se encuentra en la carpeta [`docs/`](./docs/
 ---
 
 ## Estructura del repositorio
-
+```text
 Jaguar-Retail-System/
 ├── docs/
 │   ├── diagramas/
