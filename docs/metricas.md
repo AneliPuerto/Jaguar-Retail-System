@@ -79,12 +79,12 @@ Para demostrar el cumplimiento equitativo del trabajo académico, del **porcenta
 
 | Integrante | Rol | % Contribución Calculado | Evidencias Directas en Repositorio |
 | :--- | :--- | :---: | :---: | 
-| **Axel** | Líder / Product Owner | **30%** | `docs/producto.md`<br>`docs/requisitos.md`<br> `docs/competencias.md` |
+| **Axel** | Líder / Product Owner | **20%** | `docs/producto.md`<br>`docs/requisitos.md`<br> `docs/competencias.md` |
 | **Mariana** | Scrum Master | **20%** | `docs/proceso.md`<br> `docs/metricas-y-bitacora.md`<br> `README.md` |
-| **Rodrigo** | Diseñador | **18%** | `diagramas/diagrama-clases.png` y assets `presentacion/presentacion.pdf`|
-| **Hiram** | Diseñador | **18%** | `diagramas/casos-de-uso.png`<br> y `presentacion/presentacion.pdf` |
-| **Salomón** | Diseñador | **14%** | Support en `diagramas/diagrama-clases.png`  |
+| **Rodrigo** | Diseñador | **20%** | `docs/diseño_matriz_trazabilidad.md` |
+| **Hiram** | Diseñador | **20%** | `diagramas/casos-de-uso.png`<br> y `presentacion/presentacion.pdf` |
+| **Salomón** | Diseñador | **20%** |`diagramas/diagrama-clases.png`  |
 | **TOTAL** | **100%** | **Entregable Completo Validado** |
 
 **Nota de Ajuste de Metodología (Control de Cambios):**  
-> Tras la baja formal de la integrante Jennifer, el equipo redistribuyó el 100% de la carga del proyecto entre los 5 miembros activos. Hiram junto a Rodrigo asumieron las tareas del área de diseño visual, reajustando los porcentajes de esfuerzo correspondientes para respaldar objetivamente la Métrica de Contribución Individual.
+Tras la baja formal de la integrante Jennifer, el equipo redistribuyó el 100% de la carga del proyecto entre los 5 miembros activos. Hiram junto a Rodrigo asumieron las tareas del área de diseño visual, reajustando los porcentajes de esfuerzo correspondientes para respaldar objetivamente la Métrica de Contribución Individual.
